@@ -3,8 +3,6 @@
 **Dashboard interactivo de precios de soja, maíz, trigo y girasol (2023–2025) con predicción a 90 días usando Prophet (Meta AI)**
 
 
-![Dashboard Preview](https://github.com/Alejandropablojesus/precios-agro-argentina-dashboard/blob/main/preview.png?raw=true)
-
 ### Características
 - Datos realistas mensuales 2023–2025 (provincia de Buenos Aires)
 - Filtros interactivos por producto, provincia y rango de fechas
